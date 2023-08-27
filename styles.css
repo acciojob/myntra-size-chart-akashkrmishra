@@ -1,2 +1,17 @@
-
+table{
+	border-collapse:collapse;
+}
+.heading{
+	align-item:left;
+	background:red;
+}
+.r2{
+	background:orange;
+}
+.r3{
+	background:pink;
+}
+.r4{
+	background:grey;
+}
 /* Your CSS Code here. */
